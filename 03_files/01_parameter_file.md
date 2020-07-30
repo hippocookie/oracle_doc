@@ -3,6 +3,7 @@
 1. init file: init{oracle_sid}.ora
   - plan text
 2. server parameter file: spfile{oracle_sid}.ora
+  - binary
 
 check value
 ```sql
